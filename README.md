@@ -1,2 +1,1 @@
-# my_img
-我的图片集
+# hnews-img-1
